@@ -31,4 +31,10 @@ public class PeopleServiceImpl implements  PeopleService{
 		return pi;
 	}
 
+	@Override
+	public void m2() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
