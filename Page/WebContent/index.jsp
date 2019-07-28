@@ -11,8 +11,8 @@
 	<table border="1">
 		<tr>
 			<th>编号</th>
-			<th>姓名</th>
-			<th>年龄</th>
+			<th>姓名打撒多撒</th>
+			<th>年龄大神大神</th>
 		</tr>
 		<c:forEach items="${PageInfo.list }" var="pi">
 			<tr>
